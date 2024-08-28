@@ -91,7 +91,7 @@ body{
     justify-content: space-between;
     margin-top: 30px;
 }
-.humandity, .wind{
+.humidity, .wind{
     display: flex;
     align-items: center;
 }
